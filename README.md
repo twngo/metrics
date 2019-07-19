@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Coming soon
+### 非營利組織重要指標與數據模版專案網站即將上線
 
-You can use the [editor on GitHub](https://github.com/twngo/metrics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+專案網址: https://metrics.twngo.xyz ; https://metrics.twngo.site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 計畫緣起說明 [NPO 指標與資訊儀表模版](https://to.twngo.xyz/04232019)
 
-### Markdown
+- [Google sheet template](https://to.twngo.xyz/metrics)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [NPO Dashboard](https://to.twngo.xyz/dashboard) on Google DataStudio
 
-```markdown
-Syntax highlighted code block
+- [Trello 工作進度](https://trello.com/b/4js4xpC6/metrics)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twngo/metrics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
