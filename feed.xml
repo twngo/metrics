@@ -4,10 +4,10 @@
     <title>NGO metrics</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://twngo.github.io/metrics//</link>
-    <atom:link href="https://twngo.github.io/metrics//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Jul 2019 03:06:20 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2019 03:06:20 +0000</lastBuildDate>
+    <link>https://twngo.github.io/metrics/metrics//</link>
+    <atom:link href="https://twngo.github.io/metrics/metrics//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 20 Jul 2019 03:09:15 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2019 03:09:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -22,8 +22,8 @@ Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habit
 &lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Sep 2014 14:36:23 +0000</pubDate>
-        <link>https://twngo.github.io/metrics//duis/2014/09/07/duis-in-purus.html</link>
-        <guid isPermaLink="true">https://twngo.github.io/metrics//duis/2014/09/07/duis-in-purus.html</guid>
+        <link>https://twngo.github.io/metrics/metrics//duis/2014/09/07/duis-in-purus.html</link>
+        <guid isPermaLink="true">https://twngo.github.io/metrics/metrics//duis/2014/09/07/duis-in-purus.html</guid>
         
         
         <category>Duis</category>
@@ -38,8 +38,8 @@ Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat
 &lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 14:36:23 +0000</pubDate>
-        <link>https://twngo.github.io/metrics//2014/08/31/morbi-a-semper.html</link>
-        <guid isPermaLink="true">https://twngo.github.io/metrics//2014/08/31/morbi-a-semper.html</guid>
+        <link>https://twngo.github.io/metrics/metrics//2014/08/31/morbi-a-semper.html</link>
+        <guid isPermaLink="true">https://twngo.github.io/metrics/metrics//2014/08/31/morbi-a-semper.html</guid>
         
         
       </item>
@@ -55,8 +55,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus au
 
 </description>
         <pubDate>Sun, 31 Aug 2014 14:36:23 +0000</pubDate>
-        <link>https://twngo.github.io/metrics//first-post.html</link>
-        <guid isPermaLink="true">https://twngo.github.io/metrics//first-post.html</guid>
+        <link>https://twngo.github.io/metrics/metrics//first-post.html</link>
+        <guid isPermaLink="true">https://twngo.github.io/metrics/metrics//first-post.html</guid>
         
         
       </item>
