@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NGO metrics</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>非政府非營利組織關鑑表現數據記錄模版與資訊儀表板。Metrics and dashboard templates for Nonprofit Organizations
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Jul 2019 10:49:33 +0800</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2019 10:49:33 +0800</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2019 17:33:08 +0800</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2019 17:33:08 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
